@@ -1,0 +1,39 @@
+a{
+    display: inline-block;
+}
+  
+img{
+    max-width: 100%;
+    height: auto;
+}
+  
+*,*:before,*:after{
+    box-sizing: border-box;
+}
+  
+.hover-bg-sponsor:hover {
+    background-color: #ff785e;
+    border-color: #ff785e;
+    color: white;
+}
+  
+.bg-e8{
+    background: #E8E8DB;
+}
+
+.modal-footer.login {
+    display: block;
+}
+
+.transform-l50-u150 {
+    transform: translate(-50%, -125%) !important;
+}
+  
+.text-brown {
+    color: brown;
+}
+  
+.text-decoration-none {
+    text-decoration: none;
+}
+
